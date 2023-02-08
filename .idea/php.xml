@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/graduation-api/vendor/composer" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/graduation-api/vendor/psr/http-factory" />
+    </include_path>
+  </component>
+</project>
